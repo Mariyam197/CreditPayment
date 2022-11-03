@@ -19,6 +19,6 @@ public class Main {
         System.out.println();
         System.out.println();
         System.out.printf("Ежемесячный платеж со сроком на 3 года: " + "%.0f", creditPayment3);
-        
+
     }
 }
